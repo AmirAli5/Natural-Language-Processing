@@ -2,8 +2,7 @@
 In this Natural Language Processing Repository I have upload three projects Related to Natural Language Processing which I have done. 
 #### The following project is:
 1.	Text Classification
-2.	Second Project is 
-3.	Twitter Sentiment Analysis
+2.	Twitter Sentiment Analysis
 4.	Text  Summarization  
 
 #### My LinkedIn Profile:
