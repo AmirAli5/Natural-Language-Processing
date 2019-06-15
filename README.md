@@ -26,7 +26,7 @@ These algorithm are:
 •	Word synonyms and antonyms 
 •	Word Negation Tagging
 
-These are projects which I have done in NLP.
+These are projects which I have done in NLP:
 ## Project 1: Text Classification:
 Text classification offers a good framework for getting familiar with textual data processing without lacking interest, either. In fact, there are many interesting applications for text classification such as spam detection and sentiment analysis. In this Project I use Cornell sentiment analysis dataset in Text Classification. In data preprocessing I have use TF-IDF model and Bag of Word model .and for predicting the Cornell sentiment analysis dataset in text classification I use powerful machine learning classifier algorithms which is Logistic Regression. In this Cornell sentiment analysis dataset I train 80% for train and 20% for test. On this bases of test achieved 84.75% accuracy. And in the end I check our model to write a simple line of sentence in our model and he predicts the given sentence is positive meaning.
 #### Source:
