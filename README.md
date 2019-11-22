@@ -41,7 +41,7 @@ Sentiment Analysis is the process of determining whether a piece of writing (pro
 3.	A system for real-time Twitter sentiment analysis of 2012 U.S. presidential election cycle Authors: Hao Wang, Dogan Can, Abe Kazemzadeh, François Bar  Shrikanth Narayanan ,University of Southern California, Los Angeles, CA
 ##### Project Link: https://github.com/AmirAli5/Natural-Language-Processing/tree/master/3.Twitter%20Sentiment%20Analysis
 
-## Project 3: Text Summarization of Pakistan Super League Wikipedia:
+## Project 3: Text Summarization of Pakistan Super League Wikipedia site
 Text summarization is the problem of creating a short, accurate, and fluent summary of a longer text document. Examples of text summarization you may encounter every single day. The application and promise of deep learning methods for automatic text summarization. In this project, I take the whole information of the Pakistan Super League from the Wikipedia site and summarize it into a short paragraph using the Machine Learning models.
 #### Source:
 https://en.wikipedia.org/wiki/Pakistan_Super_League
