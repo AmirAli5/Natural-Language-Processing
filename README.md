@@ -1,11 +1,11 @@
 # Natural Language Processing
-Natural language processing is a subfield of linguistics, computer science, information engineering, and artificial intelligence concerned with the interactions between computers and human languages, in particular how to program computers to process and analyze large amounts of natural language data. In this Repository, I have uploaded the NLP based Project which I have done. 
-#### The following projects are:
+Natural language processing is a subfield of linguistics, computer science, information engineering, and artificial intelligence concerned with the interactions between computers and human languages, in particular how to program computers to process and analyze large amounts of natural language data. In this Repository, I have uploaded the NLP based Project. 
+#### These Projects are on the following Topics:
 1.	Text Classification
 2.	Twitter Sentiment Analysis
 4.	Text  Summarization  
 
-#### Natural Language Processing Core
+### Natural Language Processing Core
 In Natural Language Processing Core I have covered all the modules of NLP that we use during text Preprocessing.
 These algorithms are:
 •	Stemming
@@ -41,7 +41,7 @@ Sentiment Analysis is the process of determining whether a piece of writing (pro
 3.	A system for real-time Twitter sentiment analysis of 2012 U.S. presidential election cycle Authors: Hao Wang, Dogan Can, Abe Kazemzadeh, François Bar  Shrikanth Narayanan ,University of Southern California, Los Angeles, CA
 ##### Project Link: https://github.com/AmirAli5/Natural-Language-Processing/tree/master/3.Twitter%20Sentiment%20Analysis
 
-## Project 3: Text Summarization of Pakistan Super League Wikipedia
+## Project 3: Text Summarization of Pakistan Super League Wikipedia:
 Text summarization is the problem of creating a short, accurate, and fluent summary of a longer text document. Examples of text summarization you may encounter every single day. The application and promise of deep learning methods for automatic text summarization. In this project, I take the whole information of the Pakistan Super League from the Wikipedia site and summarize it into a short paragraph using the Machine Learning models.
 #### Source:
 https://en.wikipedia.org/wiki/Pakistan_Super_League
